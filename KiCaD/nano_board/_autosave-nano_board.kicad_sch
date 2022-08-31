@@ -2273,7 +2273,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 262.763 45.212 180) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0665432c-b1f4-4606-a1ea-eaea022ab5d8)
-    (property "Reference" "FreqC_Pins" (id 0) (at 262.763 35.56 0))
+    (property "Reference" "FreqC_Pins1" (id 0) (at 262.763 35.56 0))
     (property "Value" "Conn_01x02" (id 1) (at 262.763 38.1 0))
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (id 2) (at 262.763 45.212 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2335,7 +2335,7 @@
   (symbol (lib_id "power:GND") (at 235.077 44.704 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0a965662-f372-4db2-abad-95f21963c8fe)
-    (property "Reference" "#PWR06" (id 0) (at 241.427 44.704 0)
+    (property "Reference" "#PWR07" (id 0) (at 241.427 44.704 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 239.141 44.7039 90)
@@ -2353,7 +2353,7 @@
   (symbol (lib_id "Connector:Conn_01x15_Male") (at 184.912 27.686 270) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0f2d06b5-8112-4ec5-ad82-2dea4054e7de)
-    (property "Reference" "ArdTopPins" (id 0) (at 184.912 22.606 90)
+    (property "Reference" "ArdTopPins1" (id 0) (at 184.912 22.606 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Conn_01x15_Male" (id 1) (at 184.912 25.4 90))
@@ -2402,7 +2402,7 @@
   (symbol (lib_id "Connector:Conn_01x15_Male") (at 184.912 55.626 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 115d268e-617e-4a51-9bc7-2b1a9d82d26a)
-    (property "Reference" "ArdNanoBotPins" (id 0) (at 184.912 56.896 90)
+    (property "Reference" "ArdNanoBotPins1" (id 0) (at 184.912 56.896 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "01x15_Male" (id 1) (at 184.912 59.436 90))
@@ -2432,7 +2432,7 @@
   (symbol (lib_id "power:GND") (at 177.927 85.344 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1f6c56e7-8ac5-476e-8bbb-08a2c9d368d1)
-    (property "Reference" "#PWR01" (id 0) (at 177.927 78.994 0)
+    (property "Reference" "#PWR02" (id 0) (at 177.927 78.994 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 175.387 81.534 0)
@@ -2450,7 +2450,7 @@
   (symbol (lib_id "power:GND") (at 229.616 62.8904 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 28daa062-ae74-4804-ab7b-95a6b7e0b53c)
-    (property "Reference" "#PWR05" (id 0) (at 235.966 62.8904 0)
+    (property "Reference" "#PWR06" (id 0) (at 235.966 62.8904 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 233.426 62.8903 90)
@@ -2468,7 +2468,7 @@
   (symbol (lib_id "Jumper:Jumper_3_Open") (at 261.747 89.535 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 39d463d6-3f3b-4d3a-bf47-28189f7dff6b)
-    (property "Reference" "JP2" (id 0) (at 261.747 83.185 0))
+    (property "Reference" "JP1" (id 0) (at 261.747 83.185 0))
     (property "Value" "Jumper_A5" (id 1) (at 261.747 85.725 0))
     (property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels" (id 2) (at 261.747 89.535 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2514,7 +2514,7 @@
   (symbol (lib_id "power:GND") (at 132.461 66.04 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 571717e5-ae7f-4c19-9778-a48b9d712999)
-    (property "Reference" "#PWR0101" (id 0) (at 138.811 66.04 0)
+    (property "Reference" "#PWR01" (id 0) (at 138.811 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 136.1186 66.0399 90)
@@ -2551,7 +2551,7 @@
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 224.536 57.8104 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 635ab717-e9d2-4438-97c0-c35d584ab06f)
-    (property "Reference" "I2C-Pins" (id 0) (at 225.171 49.53 0))
+    (property "Reference" "I2C-Pins1" (id 0) (at 225.171 49.53 0))
     (property "Value" "Conn_01x04_Male" (id 1) (at 225.171 52.07 0))
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (id 2) (at 224.536 57.8104 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2568,7 +2568,7 @@
   (symbol (lib_id "power:GND") (at 195.072 32.766 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 641e7273-b3ae-4eb9-b3e2-02158218560d)
-    (property "Reference" "#PWR03" (id 0) (at 195.072 39.116 0)
+    (property "Reference" "#PWR04" (id 0) (at 195.072 39.116 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 195.072 37.846 0))
@@ -2671,7 +2671,7 @@
   (symbol (lib_id "power:GND") (at 200.152 50.546 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c39e0ed8-15fd-4eae-8809-1df3ddd80bd9)
-    (property "Reference" "#PWR04" (id 0) (at 200.152 44.196 0)
+    (property "Reference" "#PWR05" (id 0) (at 200.152 44.196 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 197.612 46.736 0)
@@ -2723,7 +2723,7 @@
   (symbol (lib_id "power:GND") (at 267.843 45.212 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cfe54cb5-17c1-4dc0-ba12-97b150382c77)
-    (property "Reference" "#PWR07" (id 0) (at 274.193 45.212 0)
+    (property "Reference" "#PWR08" (id 0) (at 274.193 45.212 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 271.653 45.2119 90)
@@ -2741,7 +2741,7 @@
   (symbol (lib_id "Connector:RJ45") (at 224.917 37.084 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d5da7df2-1ded-495c-89f0-a53d052789be)
-    (property "Reference" "RJ45_I2C" (id 0) (at 224.917 19.05 0))
+    (property "Reference" "RJ45_I2C1" (id 0) (at 224.917 19.05 0))
     (property "Value" "RJ45" (id 1) (at 224.917 21.59 0))
     (property "Footprint" "Connector_RJ:RJ45_Wuerth_7499010001A_Horizontal" (id 2) (at 224.917 36.449 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -2762,7 +2762,7 @@
   (symbol (lib_id "power:GND") (at 180.467 85.344 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d8af08de-6466-4b4e-af26-781569ae1995)
-    (property "Reference" "#PWR02" (id 0) (at 180.467 78.994 0)
+    (property "Reference" "#PWR03" (id 0) (at 180.467 78.994 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 177.927 81.534 0)
@@ -2846,44 +2846,44 @@
   )
 
   (symbol_instances
-    (path "/1f6c56e7-8ac5-476e-8bbb-08a2c9d368d1"
+    (path "/571717e5-ae7f-4c19-9778-a48b9d712999"
       (reference "#PWR01") (unit 1) (value "GND") (footprint "")
     )
-    (path "/d8af08de-6466-4b4e-af26-781569ae1995"
+    (path "/1f6c56e7-8ac5-476e-8bbb-08a2c9d368d1"
       (reference "#PWR02") (unit 1) (value "GND") (footprint "")
     )
-    (path "/641e7273-b3ae-4eb9-b3e2-02158218560d"
+    (path "/d8af08de-6466-4b4e-af26-781569ae1995"
       (reference "#PWR03") (unit 1) (value "GND") (footprint "")
     )
-    (path "/c39e0ed8-15fd-4eae-8809-1df3ddd80bd9"
+    (path "/641e7273-b3ae-4eb9-b3e2-02158218560d"
       (reference "#PWR04") (unit 1) (value "GND") (footprint "")
     )
+    (path "/c39e0ed8-15fd-4eae-8809-1df3ddd80bd9"
+      (reference "#PWR05") (unit 1) (value "GND") (footprint "")
+    )
     (path "/28daa062-ae74-4804-ab7b-95a6b7e0b53c"
-      (reference "#PWR05") (unit 1) (value "GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "#PWR06") (unit 1) (value "GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/0a965662-f372-4db2-abad-95f21963c8fe"
-      (reference "#PWR06") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/cfe54cb5-17c1-4dc0-ba12-97b150382c77"
       (reference "#PWR07") (unit 1) (value "GND") (footprint "")
     )
-    (path "/571717e5-ae7f-4c19-9778-a48b9d712999"
-      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
+    (path "/cfe54cb5-17c1-4dc0-ba12-97b150382c77"
+      (reference "#PWR08") (unit 1) (value "GND") (footprint "")
     )
     (path "/115d268e-617e-4a51-9bc7-2b1a9d82d26a"
-      (reference "ArdNanoBotPins") (unit 1) (value "01x15_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical")
+      (reference "ArdNanoBotPins1") (unit 1) (value "01x15_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical")
     )
     (path "/0f2d06b5-8112-4ec5-ad82-2dea4054e7de"
-      (reference "ArdTopPins") (unit 1) (value "Conn_01x15_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical")
+      (reference "ArdTopPins1") (unit 1) (value "Conn_01x15_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical")
     )
     (path "/0665432c-b1f4-4606-a1ea-eaea022ab5d8"
-      (reference "FreqC_Pins") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (reference "FreqC_Pins1") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/635ab717-e9d2-4438-97c0-c35d584ab06f"
-      (reference "I2C-Pins") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "I2C-Pins1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/39d463d6-3f3b-4d3a-bf47-28189f7dff6b"
-      (reference "JP2") (unit 1) (value "Jumper_A5") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels")
+      (reference "JP1") (unit 1) (value "Jumper_A5") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels")
     )
     (path "/9b4733ab-205b-409d-acef-f7bc8fe5f88f"
       (reference "NTC1") (unit 1) (value "Conn_01x02") (footprint "Connector_Molex:Molex_Mini-Fit_Jr_5569-02A2_2x01_P4.20mm_Horizontal")
@@ -2934,7 +2934,7 @@
       (reference "R8") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0201_0603Metric")
     )
     (path "/d5da7df2-1ded-495c-89f0-a53d052789be"
-      (reference "RJ45_I2C") (unit 1) (value "RJ45") (footprint "Connector_RJ:RJ45_Wuerth_7499010001A_Horizontal")
+      (reference "RJ45_I2C1") (unit 1) (value "RJ45") (footprint "Connector_RJ:RJ45_Wuerth_7499010001A_Horizontal")
     )
     (path "/06f44155-c185-4805-88c6-71de36295c8c"
       (reference "XA1") (unit 1) (value "Arduino_Nano_Socket") (footprint "Shields:Arduino_Nano_Socket")
