@@ -1,1 +1,57 @@
+13170496292700
+OwnFootprints
+Arduino_1pin
+module 1 pin (ou trou mecanique de percage)
+DEV
 0
+1
+1
+OwnFootprints
+EPL.00.250.NTN
+<b>LEMO Connector</b><p>Source: http://www.lemo.com/catalog/ROW/UK_English/00and01Coaxial_en.pdf
+
+0
+5
+5
+OwnFootprints
+INA105KU
+
+
+0
+8
+8
+OwnFootprints
+OPA4277PAPDIP-14
+
+
+0
+14
+14
+OwnFootprints
+OPA4277UASOIC14
+
+
+0
+14
+14
+OwnFootprints
+Socket_Strip_Arduino_1x08
+Through hole socket strip
+socket strip
+0
+8
+8
+OwnFootprints
+Socket_Strip_Arduino_1x10
+Through hole socket strip
+socket strip
+0
+10
+10
+OwnFootprints
+Socket_Strip_Arduino_2x18
+Through hole socket strip
+socket strip
+0
+36
+36
