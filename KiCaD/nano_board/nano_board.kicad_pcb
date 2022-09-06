@@ -1875,7 +1875,7 @@
   (gr_text "Vcc select" (at 150.6 72.2) (layer "F.SilkS") (tstamp 3883a63f-a3c2-4a58-80d3-754e28646fc5)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (gr_text "Arduino Nano-based util carrier board\nv0.1	BEAK22" (at 119 44.4) (layer "F.SilkS") (tstamp 4ca99c8e-5abb-4081-80f3-16329e51b5d0)
+  (gr_text "Nano-Util-Board v0.1\nBEAK22" (at 119 44.4) (layer "F.SilkS") (tstamp 4ca99c8e-5abb-4081-80f3-16329e51b5d0)
     (effects (font (size 1.25 1.25) (thickness 0.25)))
   )
   (gr_text "GND-Signal\n" (at 158.8 73.1 90) (layer "F.SilkS") (tstamp b2cc9b5d-4ff7-42fb-b191-a444d87b6550)
