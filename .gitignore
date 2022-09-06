@@ -1,7 +1,4 @@
 #gitignore file
-#kicad stuff
-.gbr #gerber files
-.zip #backups
 #macos stuff
 .DS_Store
 
