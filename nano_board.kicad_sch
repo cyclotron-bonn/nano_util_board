@@ -1432,24 +1432,13 @@
   (junction (at 265.938 42.926) (diameter 0) (color 0 0 0 0)
     (uuid f86ec1cd-ed32-4da8-8c0b-8e32ab04b755)
   )
-  (junction (at 264.922 88.9) (diameter 0) (color 0 0 0 0)
-    (uuid ff58ba25-d950-437e-b580-6d670d7d7c62)
-  )
 
   (no_connect (at 235.077 29.464) (uuid 161a6628-0fcb-42f3-a929-57d94d1c53ae))
   (no_connect (at 235.077 34.544) (uuid 69e1845c-a123-4595-82da-e9a92c6a0775))
   (no_connect (at 235.077 26.924) (uuid 87c065a3-2942-4a9f-98ae-cd2ac851018d))
   (no_connect (at 235.077 37.084) (uuid 8a8c5d73-28ec-492f-ad7f-d62425c368e2))
 
-<<<<<<< HEAD:nano_board.kicad_sch
   (wire (pts (xy 60.96 50.546) (xy 60.96 44.196))
-=======
-  (wire (pts (xy 264.922 90.17) (xy 264.922 88.9))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 011a3e6e-3535-4998-871a-2f0fb35e3745)
-  )
-  (wire (pts (xy 54.102 47.244) (xy 54.102 53.594))
->>>>>>> f3dec270cff23159ab055de8712fae9c4a6fe5ea:KiCaD/nano_board/nano_board.kicad_sch
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 0308d6ed-5120-49ad-8af0-f91704a978c0)
   )
@@ -1477,19 +1466,11 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 0b419656-50aa-4460-8fff-3cee328159b2)
   )
-<<<<<<< HEAD:nano_board.kicad_sch
   (wire (pts (xy 229.616 55.372) (xy 231.14 55.372))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 0f149a7b-83fd-48ae-a8cf-91300f3321c0)
   )
   (wire (pts (xy 83.82 27.686) (xy 91.44 27.686))
-=======
-  (wire (pts (xy 270.002 85.598) (xy 270.002 88.9))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 0ccefc7d-f5fe-4630-8eb4-b554d59da786)
-  )
-  (wire (pts (xy 76.962 70.104) (xy 84.582 70.104))
->>>>>>> f3dec270cff23159ab055de8712fae9c4a6fe5ea:KiCaD/nano_board/nano_board.kicad_sch
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 0fdc7f38-9c99-4313-8928-1357974cf963)
   )
@@ -1696,15 +1677,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 711d6cf6-180c-493c-a6da-407d5a977b45)
   )
-<<<<<<< HEAD:nano_board.kicad_sch
   (wire (pts (xy 76.2 68.326) (xy 76.2 65.786))
-=======
-  (wire (pts (xy 259.334 85.09) (xy 259.334 88.9))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 71972aaa-d629-49bb-89ac-44cfe970d563)
-  )
-  (wire (pts (xy 69.342 29.464) (xy 69.342 32.004))
->>>>>>> f3dec270cff23159ab055de8712fae9c4a6fe5ea:KiCaD/nano_board/nano_board.kicad_sch
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 71c3f20d-06a8-4a42-96a0-9f68fb91b2bd)
   )
@@ -1805,10 +1778,6 @@
     (uuid a4585d58-43a8-46e1-8439-fe08948369c8)
   )
 
-  (wire (pts (xy 264.922 88.9) (xy 270.002 88.9))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid a7099647-1772-4ddd-a991-26dd960b22b5)
-  )
   (wire (pts (xy 264.414 45.466) (xy 265.938 45.466))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid a75a9da4-efb0-454a-aaa1-5b5942eafa38)
@@ -2029,15 +1998,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid fb26be05-9358-487f-bcb4-91ff8984e858)
   )
-<<<<<<< HEAD:nano_board.kicad_sch
   (wire (pts (xy 99.06 27.686) (xy 106.68 27.686))
-=======
-  (wire (pts (xy 259.334 88.9) (xy 264.922 88.9))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid fb717352-9aa9-4b1d-b413-5e3a03e4f86b)
-  )
-  (wire (pts (xy 92.202 70.104) (xy 99.822 70.104))
->>>>>>> f3dec270cff23159ab055de8712fae9c4a6fe5ea:KiCaD/nano_board/nano_board.kicad_sch
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid fc152fbc-a5fd-417d-a8d5-42a2a1453e19)
   )
@@ -2251,17 +2212,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-<<<<<<< HEAD:nano_board.kicad_sch
   (global_label "5V_Ard" (shape input) (at 237.998 55.372 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 32dbb687-ac59-43e5-a1ff-726da9f7d266)
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 246.7006 55.2926 0)
-=======
-  (global_label "VccI2C" (shape input) (at 229.616 55.372 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid 32dbb687-ac59-43e5-a1ff-726da9f7d266)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 238.3791 55.2926 0)
->>>>>>> f3dec270cff23159ab055de8712fae9c4a6fe5ea:KiCaD/nano_board/nano_board.kicad_sch
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -2461,13 +2415,6 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "5V_Ard" (shape input) (at 254.508 107.188 90) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid 7d1c08e3-bf53-4ff0-912f-da98b41baef8)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 254.4286 98.4854 90)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-  )
   (global_label "N5_O" (shape output) (at 104.648 104.14 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 8094e510-c2da-4042-818b-6d4e9d745ec3)
@@ -2538,16 +2485,6 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-<<<<<<< HEAD:nano_board.kicad_sch
-=======
-  (global_label "3V3_Ard" (shape input) (at 259.588 107.188 90) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid 92a8d707-5321-45e6-8bce-0a5b38bb4b42)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 259.5086 97.2759 90)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-  )
->>>>>>> f3dec270cff23159ab055de8712fae9c4a6fe5ea:KiCaD/nano_board/nano_board.kicad_sch
   (global_label "A0" (shape output) (at 174.752 50.546 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 942edf93-9df7-48be-a69f-1fad60f9b932)
@@ -2569,10 +2506,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "VccI2C" (shape input) (at 235.077 32.004 0) (fields_autoplaced)
+  (global_label "5V_Ard" (shape input) (at 235.077 32.004 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 97970ab7-9d45-4f21-8ce1-dd34e5e5d4e2)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 243.8401 31.9246 0)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 243.7796 31.9246 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -2667,24 +2604,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-<<<<<<< HEAD:nano_board.kicad_sch
   (global_label "A5" (shape bidirectional) (at 257.81 88.392 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid ab6f8d17-496a-49c4-abca-0fa65192879c)
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 257.8894 83.6808 90)
-=======
-  (global_label "A5" (shape bidirectional) (at 264.922 90.17 270) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right))
-    (uuid ab6f8d17-496a-49c4-abca-0fa65192879c)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 264.8426 94.8812 90)
-      (effects (font (size 1.27 1.27)) (justify right) hide)
-    )
-  )
-  (global_label "VccI2C" (shape input) (at 257.048 107.188 90) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid aba9cfe4-c321-407c-a132-8864d9c9f6be)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 256.9686 98.4249 90)
->>>>>>> f3dec270cff23159ab055de8712fae9c4a6fe5ea:KiCaD/nano_board/nano_board.kicad_sch
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -2740,18 +2663,7 @@
   (global_label "N2_O" (shape input) (at 68.58 50.546 270) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid c788b961-f292-40e0-a61f-35313c151327)
-<<<<<<< HEAD:nano_board.kicad_sch
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 68.5006 57.7972 90)
-=======
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 61.6426 39.9928 90)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-  )
-  (global_label "Freq" (shape input) (at 259.334 85.09 90) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid c85b45de-350c-4255-88c1-29bb32d05ee2)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 259.2546 78.5645 90)
->>>>>>> f3dec270cff23159ab055de8712fae9c4a6fe5ea:KiCaD/nano_board/nano_board.kicad_sch
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -2762,17 +2674,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-<<<<<<< HEAD:nano_board.kicad_sch
   (global_label "SCL" (shape output) (at 260.35 88.392 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid cbe89e57-e462-47b4-9bfa-de7c71b216a2)
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 260.2706 82.4713 90)
-=======
-  (global_label "SCL" (shape output) (at 270.002 85.598 90) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid cbe89e57-e462-47b4-9bfa-de7c71b216a2)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 269.9226 79.6773 90)
->>>>>>> f3dec270cff23159ab055de8712fae9c4a6fe5ea:KiCaD/nano_board/nano_board.kicad_sch
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -3016,7 +2921,7 @@
   (symbol (lib_name "Conn_01x02_1") (lib_id "Connector_Generic:Conn_01x02") (at 259.334 45.466 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 0665432c-b1f4-4606-a1ea-eaea022ab5d8)
-    (property "Reference" "Freq_Pins" (id 0) (at 259.08 49.022 0))
+    (property "Reference" "Freq_Pins1" (id 0) (at 259.08 49.022 0))
     (property "Value" "Conn_01x02" (id 1) (at 258.318 39.116 0))
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (id 2) (at 259.334 45.466 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3326,7 +3231,6 @@
     (pin "1" (uuid 094008ce-28e8-4c51-a755-7de4f3675e90))
   )
 
-<<<<<<< HEAD:nano_board.kicad_sch
   (symbol (lib_id "Device:R") (at 60.96 34.036 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3372281c-134a-417a-b97d-cadc4e4c58a6)
@@ -3347,9 +3251,6 @@
   )
 
   (symbol (lib_id "Device:R") (at 99.06 34.036 0) (mirror x) (unit 1)
-=======
-  (symbol (lib_id "power:GND") (at 107.442 70.104 90) (unit 1)
->>>>>>> f3dec270cff23159ab055de8712fae9c4a6fe5ea:KiCaD/nano_board/nano_board.kicad_sch
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3776ed17-29da-4dcb-90b3-a7606449a11d)
     (property "Reference" "R7" (id 0) (at 100.838 35.3061 0)
@@ -3438,11 +3339,7 @@
   (symbol (lib_id "Connector:LEMO2") (at 275.082 45.466 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 64ab901b-ea46-43a5-9f7f-64cceeb0129b)
-<<<<<<< HEAD:nano_board.kicad_sch
     (property "Reference" "J3" (id 0) (at 280.162 42.9259 0)
-=======
-    (property "Reference" "J2" (id 0) (at 280.162 42.9259 0)
->>>>>>> f3dec270cff23159ab055de8712fae9c4a6fe5ea:KiCaD/nano_board/nano_board.kicad_sch
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "LEMO2" (id 1) (at 280.162 45.4659 0)
@@ -3496,27 +3393,7 @@
     (pin "2" (uuid b670e56d-dd0a-4430-8fad-bab3a5901b22))
   )
 
-<<<<<<< HEAD:nano_board.kicad_sch
   (symbol (lib_id "Device:R") (at 83.82 34.036 0) (mirror x) (unit 1)
-=======
-  (symbol (lib_id "Connector:Conn_01x03_Male") (at 257.048 112.268 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid 766faffd-39af-40f7-bd35-54f4ccfb0fe6)
-    (property "Reference" "J1" (id 0) (at 257.048 114.3 90))
-    (property "Value" "Conn_01x03_Male" (id 1) (at 257.048 116.84 90))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (id 2) (at 257.048 112.268 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (id 3) (at 257.048 112.268 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid cc87151d-b8ad-47a5-b30b-d1c1900385f6))
-    (pin "2" (uuid 9d8a7a37-e015-4628-8d43-963529ee05c2))
-    (pin "3" (uuid 9042d4a1-ce1b-429f-8329-445dc0b5df15))
-  )
-
-  (symbol (lib_id "Device:R") (at 76.962 63.754 0) (unit 1)
->>>>>>> f3dec270cff23159ab055de8712fae9c4a6fe5ea:KiCaD/nano_board/nano_board.kicad_sch
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8667699d-f1a6-45e1-b520-1c4c5ab8f30a)
     (property "Reference" "R5" (id 0) (at 85.598 35.3061 0)
@@ -3857,12 +3734,11 @@
       (reference "ArdTopPins1") (unit 1) (value "Conn_01x15_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical")
     )
     (path "/0665432c-b1f4-4606-a1ea-eaea022ab5d8"
-      (reference "Freq_Pins") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (reference "Freq_Pins1") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/635ab717-e9d2-4438-97c0-c35d584ab06f"
       (reference "I2C-Pins1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
-<<<<<<< HEAD:nano_board.kicad_sch
     (path "/163f3e04-19f9-4f91-8625-f5c59b0fa7b4"
       (reference "J1") (unit 1) (value "PinHeader") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
@@ -3871,13 +3747,6 @@
     )
     (path "/64ab901b-ea46-43a5-9f7f-64cceeb0129b"
       (reference "J3") (unit 1) (value "LEMO2") (footprint "OwnFootprints:EPL.00.250.NTN")
-=======
-    (path "/766faffd-39af-40f7-bd35-54f4ccfb0fe6"
-      (reference "J1") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
-    )
-    (path "/64ab901b-ea46-43a5-9f7f-64cceeb0129b"
-      (reference "J2") (unit 1) (value "LEMO2") (footprint "OwnFootprints:EPL.00.250.NTN")
->>>>>>> f3dec270cff23159ab055de8712fae9c4a6fe5ea:KiCaD/nano_board/nano_board.kicad_sch
     )
     (path "/e7cc15be-798a-4a30-9815-95e494e86633"
       (reference "NTC0-Pin1") (unit 1) (value "Pin-Header 01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
