@@ -2035,7 +2035,7 @@
   (gr_text "Freq" (at 161.6 73.6 90) (layer "F.SilkS") (tstamp 0e81af88-cb33-4251-9c29-cc7b208db41c)
     (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
-  (gr_text "Vcc\n3V3" (at 157 59.75) (layer "F.SilkS") (tstamp 14689813-b7fe-4ad7-a11e-6564114690b9)
+  (gr_text "Vcc\n5V" (at 157 59.75) (layer "F.SilkS") (tstamp 14689813-b7fe-4ad7-a11e-6564114690b9)
     (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
   (gr_text "SET JUMPER\n3V3-REF" (at 104.5 82.9) (layer "F.SilkS") (tstamp 22fad860-3ccd-4e16-bb76-65feba77694a)
