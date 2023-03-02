@@ -3493,9 +3493,9 @@
   (symbol (lib_id "Connector_Generic:Conn_02x04_Odd_Even") (at 238.506 84.328 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cf464e87-8b79-46de-8ca0-227206f63b62)
-    (property "Reference" "J?" (id 0) (at 239.776 74.93 0))
+    (property "Reference" "J1" (id 0) (at 239.776 74.93 0))
     (property "Value" "Conn_02x04_Odd_Even" (id 1) (at 239.776 77.47 0))
-    (property "Footprint" "" (id 2) (at 238.506 84.328 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical" (id 2) (at 238.506 84.328 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 238.506 84.328 0)
@@ -3679,11 +3679,11 @@
     (path "/10cdef8a-a1ad-41e2-960f-70edd505f154"
       (reference "J0") (unit 1) (value "8P8C_Shielded") (footprint "Connector_RJ:RJ45_Amphenol_RJHSE5380")
     )
+    (path "/cf464e87-8b79-46de-8ca0-227206f63b62"
+      (reference "J1") (unit 1) (value "Conn_02x04_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical")
+    )
     (path "/64ab901b-ea46-43a5-9f7f-64cceeb0129b"
       (reference "J2") (unit 1) (value "LEMO2") (footprint "OwnFootprints:EPL.00.250.NTN")
-    )
-    (path "/cf464e87-8b79-46de-8ca0-227206f63b62"
-      (reference "J?") (unit 1) (value "Conn_02x04_Odd_Even") (footprint "")
     )
     (path "/9b4733ab-205b-409d-acef-f7bc8fe5f88f"
       (reference "NTC0") (unit 1) (value "Molex01x02") (footprint "Connector_Molex:Molex_Mini-Fit_Jr_5569-02A2_2x01_P4.20mm_Horizontal")
