@@ -1,6 +1,6 @@
 # nano_util_board
 PCB design of the Arduino Nano-based util carrier board
-![nano_board_front](https://github.com/cyclotron-bonn/nano_util_board/assets/94974239/864ca194-0b4d-4e2c-805d-c467025cadbf)
+![nano_board_front](https://github.com/cyclotron-bonn/nano_util_board/blob/main/assets/Nano_util_board_v1_0_Birdeye.JPG)
 
 # KiCaD folder
 This folder contains all the `.kicad_x` files necessary to display the schematic and pcb design in KiCaD.
